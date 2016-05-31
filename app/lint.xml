@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/com/android/editorial/utils/cropwindows/CropOverlayView.java" />
+        <ignore path="src/com/android/editorial/views/TouchImageView.java" />
+    </issue>
+    <issue id="InflateParams" severity="ignore" />
+</lint>

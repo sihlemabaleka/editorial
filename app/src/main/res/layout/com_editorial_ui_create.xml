@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#142030"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/feed_item_margin" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginBottom="@dimen/feed_item_margin"
+        android:layout_marginLeft="@dimen/feed_item_margin"
+        android:layout_marginRight="@dimen/feed_item_margin"
+        android:background="@drawable/bg_parent_rounded_corner"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/feed_item_padding_top_bottom" >
+
+        <Button
+            android:id="@+id/category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/feed_item_padding_top_bottom"
+            android:background="@drawable/ink_border_transparent_button"
+            android:text="Select Category"
+            android:textColor="@color/ink"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <EditText
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_above="@+id/url_address"
+            android:layout_below="@+id/category"
+            android:layout_margin="@dimen/feed_item_padding_top_bottom"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:hint="Editorial Name"
+            android:inputType="textMultiLine"
+            android:capitalize="words"
+            android:textColor="#142030"
+            android:textStyle="bold"
+            android:textSize="24sp"
+            android:typeface="serif" >
+
+            <requestFocus />
+        </EditText>
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal"
+            android:weightSum="1" >
+
+            <Button
+                android:id="@+id/cancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/red_border_transparent_button"
+                android:text="Cancel"
+                android:textColor="#660000"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:typeface="serif" />
+
+            <Button
+                android:id="@+id/save"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_weight="0.5"
+                android:background="@drawable/green_bordered_transparent_button"
+                android:text="Save"
+                android:textColor="#003300"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:typeface="serif" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/url_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/linearLayout1"
+            android:layout_alignParentRight="true"
+            android:layout_margin="@dimen/feed_item_padding_top_bottom"
+            android:ems="10"
+            android:textSize="13sp"
+            android:gravity="center_horizontal"
+            android:hint="Website Address"
+            android:inputType="textUri"
+            android:textAllCaps="false"
+            android:textColor="#142030"
+            android:textStyle="bold"
+            android:typeface="serif" />
+    </RelativeLayout>
+
+</LinearLayout>

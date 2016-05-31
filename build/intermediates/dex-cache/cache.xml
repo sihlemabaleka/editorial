@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_8023431cc6c7d5bdfc42594bff561d0e828ebbad\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_4c2b91e78aae064abc2bd72841fd874555006999\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_45e573b5f13318df4bee5f539b44c2817152ba15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_93216efb6d7eb66764e085bbf57ad2ede2030be7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_ef8a7f72ca092f8753450075e26a3fcf39387345\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_c648edb088a5bdd12dbc7b7752ef1237fce9178d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_a9e6e48adf560513067897b7fd3cbe3d2462cc85\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.parse\parseui-widget-android\0.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="76d7e619a84e1c57ad7b153ba84b1213f8ff9ef1">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.parse-parseui-widget-android-0.0.1_5263ded8d95958fe6c860c446b492a8647655623\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a52e5a6b27ed8e4fdf5a0b25fb269d4a8cb0a619">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d7347dd27a40cc51d7d10de33bad6229095a9be7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_350d0f1e71ab46b118e03ced74b2fbebfabf4cc4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_cf9dee9969666abaf70ec95b90378a059bbbfe1d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_d7c30ec7297b404c453b38a033538bbf0a4da9aa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_4f783b260fac7c5aeb57653e5790e86d9f03d119\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_52b060a0255ae6308e110a28327f9f22b94197c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_163fb9d3b76cabb8abd5ba7810e4f5eb6373f18f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4317ea509bfaac7855d73f74a9f0cb3018c730e">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_64aa3de3f14421a8779c9a6cc24e364c2222ea08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\PantheraS\AndroidStudioProjects\Editorial\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_88c30be660921d2a6bcefe42ac8a56e6e76de732\classes.dex" />
+    </item>
+
+</items>

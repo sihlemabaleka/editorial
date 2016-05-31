@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\global.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\menu\\global.xml"
+    },
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\comment_options.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\menu\\comment_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\profile_options.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\menu\\profile_options.xml"
+    },
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\menu\\post_options.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\menu\\post_options.xml"
+    }
+]

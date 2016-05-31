@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_left.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\animator\\slide_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_right.xml",
+        "source": "C:\\Users\\PantheraS\\AndroidStudioProjects\\Editorial\\app\\src\\main\\res\\animator\\slide_right.xml"
+    }
+]

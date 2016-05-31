@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Editorial</string>
+    <string name="title_section1">Discovery Setings</string>
+    <string name="title_section2">App Settings</string>
+    <string name="title_section3">Help and Support</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category">
+        <item>People</item>
+        <item>Food</item>
+        <item>Travel</item>
+        <item>Fashion</item>
+        <item>Art</item>
+        <item>Nature</item>
+        <item>Architecture</item>
+        <item>Landscape</item>
+    </string-array>
+
+</resources>
